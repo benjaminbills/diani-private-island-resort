@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  background-image: url(../image/jcob-nasyr-H6GkFmIm2VQ-unsplash.jpg);
+}
+
+main {
+  padding-top: 150px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
